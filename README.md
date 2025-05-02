@@ -76,7 +76,7 @@ mental_health_chatbot/
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/jwalith/Mental-Health-Chatbot.git
-cd mental_health_chatbot
+cd Mental-Health-Chatbot
 ```
 
 2. **Install dependencies**:
